@@ -318,7 +318,11 @@ CONFIG_IOSCHED_MAPLE=y
 =======
 CONFIG_IOSCHED_ZEN=y
 CONFIG_IOSCHED_TRIPNDROID=y
+<<<<<<< HEAD
 >>>>>>> f7de2ac... block: add tripndroid iosched
+=======
+CONFIG_IOSCHED_FIOPS=y
+>>>>>>> 9742e3a... block: add fiops iosched
 # CONFIG_DEFAULT_DEADLINE is not set
 CONFIG_DEFAULT_CFQ=y
 # CONFIG_DEFAULT_NOOP is not set
@@ -328,7 +332,11 @@ CONFIG_DEFAULT_CFQ=y
 =======
 # CONFIG_DEFAULT_ZEN is not set
 # CONFIG_DEFAULT_TRIPNDROID is not set
+<<<<<<< HEAD
 >>>>>>> f7de2ac... block: add tripndroid iosched
+=======
+# CONFIG_DEFAULT_FIOPS is not set
+>>>>>>> 9742e3a... block: add fiops iosched
 CONFIG_DEFAULT_IOSCHED="cfq"
 CONFIG_ASN1=y
 CONFIG_UNINLINE_SPIN_UNLOCK=y
